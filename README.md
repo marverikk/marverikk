@@ -2,9 +2,9 @@
 
 ---
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Minha stack principal inclui *HTML5, CSS3, JS** e **REACT**, mas estou sempre aberto a aprender e explorar novas ferramentas.
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios. Minha stack principal inclui **HTML5, CSS3, JS** e **REACT**, mas estou sempre aberto a aprender e explorar novas ferramentas.
 
-## 🔭 Atualmente, estou trabalhando em várias **ideias de projetos**.  
+## 🔭 Atualmente, estou trabalhando em várias *ideias de projetos*.  
 Também já desenvolvi **APIs, Websites e Marketplaces**, focando sempre em **performance e boas práticas**.
 
 ---
