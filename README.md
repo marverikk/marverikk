@@ -24,12 +24,6 @@ Também já desenvolvi **APIs, Websites e Marketplaces**, focando sempre em **pe
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marverikk&show_icons=true)
-
----
-
 ## 💼 Contatos
 
 <p align="left">
