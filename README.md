@@ -37,9 +37,6 @@ Também já desenvolvi **APIs, Websites e Marketplaces**, focando sempre em **pe
   <a href="https://wa.me/5511992120397" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992120397" alt="WhatsApp"/></a>
   
-  <a href="https://www.facebook.com/StarNinjaBr/" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/StarNinjaBr/" alt="Facebook"/></a>
-  
   <a href="https://www.instagram.com/_guipmf/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_guipmf/" alt="Instagram"/></a>
   
